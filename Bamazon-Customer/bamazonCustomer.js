@@ -59,6 +59,7 @@ function askForPurchase() {
         } else {
           console.log("Insufficient quantity of item to fill your order");
         }
+        connection.end();
       });
     });
 }
