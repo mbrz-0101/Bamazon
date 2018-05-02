@@ -1,2 +1,2 @@
 # Bamazon
-![Alt text](https://github.com/mbrz-0101/bamazon-app/images/Capture1.JPG)
+![Alt text](https://raw.githubusercontent.com/mbrz-0101/bamazon-app/images/Capture1.JPG)
