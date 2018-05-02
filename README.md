@@ -1,2 +1,2 @@
 # Bamazon
-![Alt text](../images/Capture1.JPG)
+![Alt text](../images/Capture1.jpg)
