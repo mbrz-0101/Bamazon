@@ -1,2 +1,2 @@
 # Bamazon
-![Alt text](../images/Capture1.jpg)
+![Alt text](../bamazon-app/images/Capture1.jpg)
